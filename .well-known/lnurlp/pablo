@@ -1,0 +1,9 @@
+{
+  "callback": "https://livingroomofsatoshi.com/api/v1/lnurl/payreq/f6474d86-58ec-4cc0-bd30-0ba0a0dda732",
+  "maxSendable": 100000000000,
+  "minSendable": 1000,
+  "metadata": "[[\"text/plain\",\"Zap to Pablo\"],[\"text/identifier\",\"pablo@segwit.dev.ar\"]]",
+  "commentAllowed": 255,
+  "tag": "payRequest",
+  "allowsNostr": true,
+  "nostrPubkey": "bc59f61a413260f5f834b809380873fc853f8e8fa03e56301fcb0d9f75cc7066"
